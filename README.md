@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=tynyshtyq)
+![](https://komarev.com/ghpvc/?username=DeFida)
 
 ## Hi, I'm Dastan 👋
 
