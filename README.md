@@ -2,8 +2,7 @@
 
 ## Hi, I'm Dastan 👋
 
-- I'm a web developer
+- I'm a web developer at [Higgsfield.ai](https://higgsfield.ai/)
 - Currently studying CS at Nazarbayev University
-- Here is my [website](https://tynyshtyq.blog) &#128072;
 
 Email → tynyshtyqdastan@gmail.com
